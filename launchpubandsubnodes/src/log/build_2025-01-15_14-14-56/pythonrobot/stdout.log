@@ -1,0 +1,39 @@
+running egg_info
+creating ../build/pythonrobot/pythonrobot.egg-info
+writing ../build/pythonrobot/pythonrobot.egg-info/PKG-INFO
+writing dependency_links to ../build/pythonrobot/pythonrobot.egg-info/dependency_links.txt
+writing entry points to ../build/pythonrobot/pythonrobot.egg-info/entry_points.txt
+writing requirements to ../build/pythonrobot/pythonrobot.egg-info/requires.txt
+writing top-level names to ../build/pythonrobot/pythonrobot.egg-info/top_level.txt
+writing manifest file '../build/pythonrobot/pythonrobot.egg-info/SOURCES.txt'
+reading manifest file '../build/pythonrobot/pythonrobot.egg-info/SOURCES.txt'
+writing manifest file '../build/pythonrobot/pythonrobot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/robotics/kkr_ws/src/build/pythonrobot/build
+creating /home/robotics/kkr_ws/src/build/pythonrobot/build/lib
+creating /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot
+copying pythonrobot/__init__.py -> /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot
+copying pythonrobot/firstpubnode.py -> /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot
+copying pythonrobot/firstsubnode.py -> /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot
+running install
+running install_lib
+creating /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot
+copying /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot/__init__.py -> /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot
+copying /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot/firstpubnode.py -> /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot
+copying /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot/firstsubnode.py -> /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot
+byte-compiling /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot/firstpubnode.py to firstpubnode.cpython-312.pyc
+byte-compiling /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot/firstsubnode.py to firstsubnode.cpython-312.pyc
+running install_data
+creating /home/robotics/kkr_ws/src/install/pythonrobot/share/ament_index
+creating /home/robotics/kkr_ws/src/install/pythonrobot/share/ament_index/resource_index
+creating /home/robotics/kkr_ws/src/install/pythonrobot/share/ament_index/resource_index/packages
+copying resource/pythonrobot -> /home/robotics/kkr_ws/src/install/pythonrobot/share/ament_index/resource_index/packages
+copying package.xml -> /home/robotics/kkr_ws/src/install/pythonrobot/share/pythonrobot
+running install_egg_info
+Copying ../build/pythonrobot/pythonrobot.egg-info to /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot-0.0.0-py3.12.egg-info
+running install_scripts
+Installing pub script to /home/robotics/kkr_ws/src/install/pythonrobot/lib/pythonrobot
+Installing sub script to /home/robotics/kkr_ws/src/install/pythonrobot/lib/pythonrobot
+writing list of installed files to '/home/robotics/kkr_ws/src/build/pythonrobot/install.log'

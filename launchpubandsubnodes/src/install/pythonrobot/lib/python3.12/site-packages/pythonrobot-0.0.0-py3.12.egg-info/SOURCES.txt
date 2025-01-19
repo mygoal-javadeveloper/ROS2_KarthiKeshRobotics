@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../build/pythonrobot/pythonrobot.egg-info/PKG-INFO
+../build/pythonrobot/pythonrobot.egg-info/SOURCES.txt
+../build/pythonrobot/pythonrobot.egg-info/dependency_links.txt
+../build/pythonrobot/pythonrobot.egg-info/entry_points.txt
+../build/pythonrobot/pythonrobot.egg-info/requires.txt
+../build/pythonrobot/pythonrobot.egg-info/top_level.txt
+../build/pythonrobot/pythonrobot.egg-info/zip-safe
+pythonrobot/__init__.py
+pythonrobot/firstpubnode.py
+pythonrobot/firstsubnode.py
+resource/pythonrobot
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

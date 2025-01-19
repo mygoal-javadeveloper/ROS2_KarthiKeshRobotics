@@ -1,0 +1,41 @@
+[1.916s] Invoking command in '/home/robotics/kkr_ws/src/pythonrobot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/robotics/kkr_ws/src/build/pythonrobot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/pythonrobot build --build-base /home/robotics/kkr_ws/src/build/pythonrobot/build install --record /home/robotics/kkr_ws/src/build/pythonrobot/install.log --single-version-externally-managed install_data
+[2.542s] running egg_info
+[2.542s] creating ../build/pythonrobot/pythonrobot.egg-info
+[2.591s] writing ../build/pythonrobot/pythonrobot.egg-info/PKG-INFO
+[2.591s] writing dependency_links to ../build/pythonrobot/pythonrobot.egg-info/dependency_links.txt
+[2.592s] writing entry points to ../build/pythonrobot/pythonrobot.egg-info/entry_points.txt
+[2.592s] writing requirements to ../build/pythonrobot/pythonrobot.egg-info/requires.txt
+[2.592s] writing top-level names to ../build/pythonrobot/pythonrobot.egg-info/top_level.txt
+[2.593s] writing manifest file '../build/pythonrobot/pythonrobot.egg-info/SOURCES.txt'
+[2.695s] reading manifest file '../build/pythonrobot/pythonrobot.egg-info/SOURCES.txt'
+[2.696s] writing manifest file '../build/pythonrobot/pythonrobot.egg-info/SOURCES.txt'
+[2.696s] running build
+[2.697s] running build_py
+[2.697s] creating /home/robotics/kkr_ws/src/build/pythonrobot/build
+[2.697s] creating /home/robotics/kkr_ws/src/build/pythonrobot/build/lib
+[2.697s] creating /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot
+[2.698s] copying pythonrobot/__init__.py -> /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot
+[2.698s] copying pythonrobot/firstpubnode.py -> /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot
+[2.698s] copying pythonrobot/firstsubnode.py -> /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot
+[2.698s] running install
+[2.713s] running install_lib
+[2.764s] creating /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot
+[2.765s] copying /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot/__init__.py -> /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot
+[2.765s] copying /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot/firstpubnode.py -> /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot
+[2.765s] copying /home/robotics/kkr_ws/src/build/pythonrobot/build/lib/pythonrobot/firstsubnode.py -> /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot
+[2.766s] byte-compiling /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot/__init__.py to __init__.cpython-312.pyc
+[2.767s] byte-compiling /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot/firstpubnode.py to firstpubnode.cpython-312.pyc
+[2.768s] byte-compiling /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot/firstsubnode.py to firstsubnode.cpython-312.pyc
+[2.769s] running install_data
+[2.769s] creating /home/robotics/kkr_ws/src/install/pythonrobot/share/ament_index
+[2.770s] creating /home/robotics/kkr_ws/src/install/pythonrobot/share/ament_index/resource_index
+[2.770s] creating /home/robotics/kkr_ws/src/install/pythonrobot/share/ament_index/resource_index/packages
+[2.770s] copying resource/pythonrobot -> /home/robotics/kkr_ws/src/install/pythonrobot/share/ament_index/resource_index/packages
+[2.770s] copying package.xml -> /home/robotics/kkr_ws/src/install/pythonrobot/share/pythonrobot
+[2.770s] running install_egg_info
+[2.825s] Copying ../build/pythonrobot/pythonrobot.egg-info to /home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages/pythonrobot-0.0.0-py3.12.egg-info
+[2.828s] running install_scripts
+[3.150s] Installing pub script to /home/robotics/kkr_ws/src/install/pythonrobot/lib/pythonrobot
+[3.150s] Installing sub script to /home/robotics/kkr_ws/src/install/pythonrobot/lib/pythonrobot
+[3.151s] writing list of installed files to '/home/robotics/kkr_ws/src/build/pythonrobot/install.log'
+[3.209s] Invoked command in '/home/robotics/kkr_ws/src/pythonrobot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/robotics/kkr_ws/src/build/pythonrobot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotics/kkr_ws/src/install/pythonrobot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/pythonrobot build --build-base /home/robotics/kkr_ws/src/build/pythonrobot/build install --record /home/robotics/kkr_ws/src/build/pythonrobot/install.log --single-version-externally-managed install_data

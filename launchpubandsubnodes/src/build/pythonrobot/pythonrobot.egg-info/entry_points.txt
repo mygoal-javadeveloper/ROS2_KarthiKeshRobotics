@@ -1,0 +1,3 @@
+[console_scripts]
+pub = pythonrobot.firstpubnode:main
+sub = pythonrobot.firstsubnode:main
